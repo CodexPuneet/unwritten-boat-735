@@ -6,6 +6,7 @@ import CardOne from './Components/CardOne';
 import CardTwo from './Components/CardTwo';
 import CardThree from './Components/CardThree';
 import CardFour from './Components/CardFour';
+import Footer from './Components/Footer';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <CardTwo />
       <CardThree />
       <CardFour />
+      <Footer />
     </div>
   );
 }
