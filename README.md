@@ -53,50 +53,27 @@ Technologies used in the project:
 
 
 
-## ✨ Features 
-
-- Responsive
-- Private Routing
-- Search Funtionality
-- Filter and Sorting
-- Custom Components
-- Crausels
-- Form Validation (Login,Signup)
-
 
 ## 🚀 Demo
 
 **Front-end deployed URL:**
 
-https://darling-sunshine-8dc7e8.netlify.app/
+https://incomparable-duckanoo-fe2112.netlify.app/
 
 
-##  📁 Folder structure
-- #### `public` - This holds all of our static files
-- #### `src`
-    - #### `assets` - This folder holds assets such as images, docs, and fonts
-    - #### `components` - This folder holds all of the different components that will make up our pages
-    - #### `pages` - These represent a unique page on the website i.e. Home or About. 
-    - #### `redux` - It consists of store, reducer, action and actiontypes and is responsible for global state management of our app.
-    - #### `App.js` - This is what renders all of our browser routes and different pages
-    - #### `index.js` - This is what renders the react app by rendering App.js.
-- #### `package.json` - Defines npm behaviors and packages for the client
-
-#### `.gitignore` - Tells git which files to ignore
-#### `README` - This file!
 
 # Installation
 
 Clone the project
-```bash
-git clone https://github.com/ajayahara/JIOMART.COM_RCT_201.git
+```base
+https://github.com/CodexPuneet/unwritten-boat-735.git
 ```
 ## Client-side usage
 
 Go to the project directory
 
 ```bash
-$ cd JIOMART.COM_RCT_201         // go to client folder
+$ cd unwritten-boat-735         // go to client folder
 $ yarn # or npm i               // npm install packages
 $ npm run start                // run it locally
 
@@ -104,14 +81,7 @@ $ npm run start                // run it locally
 $ npm run build  // this will compile the react code using webpack and generate a folder called docs in the root level
 ````  
 
-## ✍ Contributors
-
-- [@ajayahara](https://github.com/ajayahara)
-- [@anki2001ta](https://github.com/anki2001ta)
-- [@Rashmiranjan117](https://github.com/Rashmiranjan117)
-- [@CodexPuneet](https://www.github.com/CodexPuneet)
-##
 
 
-This project was built during our construct week at Masai School. It was built by a team of 4 developers and executed in 6 days.
+This project was built during our construct week at Masai School. It was individual project and executed in 6 days.
        
