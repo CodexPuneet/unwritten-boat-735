@@ -23,10 +23,12 @@ Technologies used in the project:
 ## 💻 Screenshots
 
 **Home Page:**
-![Homepage](https://user-images.githubusercontent.com/107473816/215728412-d05e996b-9cb5-4385-9755-734b52bc1d04.jpg)
+![homepage](https://user-images.githubusercontent.com/103636380/215857901-a9dba071-e33d-4768-aff9-8d62f933a02d.png)
 
-**Sign Up Page**
-![register](https://user-images.githubusercontent.com/107473816/215728559-3a62577f-059e-4228-a354-d6676b918f3c.jpg)
+
+**Navlist**
+![navlist](https://user-images.githubusercontent.com/103636380/215858035-caa4629f-0f87-45ee-b5e5-314426174bed.png)
+
 
 
 **Login Page:**
